@@ -1,6 +1,6 @@
 # Projeto Estilo Uber - Node.js
 
-Este projeto é uma aplicação web backend inspirada no modelo de aplicativos de mobilidade urbana como o Uber. A aplicação foi construída utilizando Node.js e Express, com PostgreSQL como banco de dados, além de outras tecnologias.
+Este projeto é uma aplicação mobile inspirada no modelo de aplicativos de mobilidade urbana como o Uber. A aplicação foi construída utilizando Node.js e Express, com PostgreSQL como banco de dados, além de outras tecnologias.
 
 ## Tecnologias Utilizadas
 
